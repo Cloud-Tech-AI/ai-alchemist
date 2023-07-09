@@ -1,1 +1,1 @@
-# machine_learning_notes
+# Kickstart your journey into the world of AI !!!
