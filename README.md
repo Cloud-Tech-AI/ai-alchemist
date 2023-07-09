@@ -1,1 +1,3 @@
-# Kickstart your journey into the world of AI !!!
+# Learn AI
+
+Notes that will help you kick-start your journey into the world of AI !!!
